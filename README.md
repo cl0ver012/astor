@@ -3,19 +3,11 @@
 This is a web-app built with Django. The user can get a business info about the company. 
 
 
----------------
 
 
 Python, Django, Bootstrap, CSS/HTML
 
-____________
 
-
-MODULES
-
-admin, include, path, views, AppConfig
-
---------
 
 USAGE
 
